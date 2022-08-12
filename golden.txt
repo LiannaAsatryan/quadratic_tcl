@@ -1,0 +1,10 @@
+no solution
+0 0.75
+0.1708
+R
+no solution
+-129.5274 -17.1392
+-2
+no solution
+-0.7902 0.3616
+1
